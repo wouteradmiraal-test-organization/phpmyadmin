@@ -14,9 +14,6 @@ use function __;
 use function sprintf;
 use function str_replace;
 
-/**
- * Class to get name or description for a configuration paths
- */
 class Descriptions
 {
     /** @var array<string, string> $commentsMap */
