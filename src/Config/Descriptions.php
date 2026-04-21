@@ -16,7 +16,6 @@ use function str_replace;
 
 class Descriptions
 {
-    /** @var array<string, string> $commentsMap */
     private static array $commentsMap = [];
 
     /** @var array<string, string> $descriptionsMap */
